@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :heart: Help me build and improve opensource, please [become a sponsor](https://github.com/sponsors/nbari)
+- :heart: Help me build and improve open source projects, please [become a sponsor](https://github.com/sponsors/nbari)
 - 🌱 I’m currently learning Rust
 - :heart_eyes: FreeBSD
 
