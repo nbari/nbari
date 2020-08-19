@@ -3,6 +3,7 @@
 - :heart: Help me build and improve open source projects, [become a sponsor :deciduous_tree:](https://github.com/sponsors/nbari) 
 - 🌱 I’m currently learning Rust
 - :heart_eyes: FreeBSD
+- :bike: make it work,  :car: make it better,  :airplane: make it fast
 
 <!--
 **nbari/nbari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
