@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- :heart: Help me build and improve open source projects, [become a sponsor :deciduous_tree:](https://github.com/sponsors/nbari) 
-- 🌱 I’m currently learning Rust
+- 🌱 Rust
 - :heart_eyes: FreeBSD
 - :bike: make it work,  :car: make it better,  :airplane: make it fast
 
