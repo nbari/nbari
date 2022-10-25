@@ -2,6 +2,7 @@
 
 - 🌱 Rust
 - :heart_eyes: FreeBSD
+- 🏠 DBRE
 - :bike: make it work,  :car: make it better,  :airplane: make it fast
 
 <!--
